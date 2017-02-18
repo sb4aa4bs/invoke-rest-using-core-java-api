@@ -1,1 +1,1 @@
-# invoke-rest-using-http-url
+# invoke-rest-using-core-java-api
